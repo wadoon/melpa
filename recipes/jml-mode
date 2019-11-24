@@ -1,0 +1,2 @@
+(jml-mode 
+ :files ("*.el" "snippets/"))
