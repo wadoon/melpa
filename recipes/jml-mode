@@ -1,2 +1,5 @@
 (jml-mode 
+ :fetcher github
+ :repo "wadoon/jml-mode"
+ :branch "stable"
  :files ("*.el" "snippets/"))
